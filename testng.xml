@@ -3,7 +3,7 @@
 <suite name="Suite">
     <test name="Test" thread-count="5">
         <classes>
-            <class name="rpa.ECWAdjustments"/>
+            <class name="rpa.ASRPortal"/>
         </classes>
     </test> <!-- Test -->
 </suite> <!-- Suite -->
